@@ -1,1 +1,1 @@
-Banich Lab at the University of Colorado Boulder: https://www.colorado.edu/faculty/banich/
+The official code repository for the Banich Lab
