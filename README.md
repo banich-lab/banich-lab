@@ -1,1 +1,3 @@
 The official code repository for the Banich Lab
+
+Instructions and guidelines for lab members coming soon....
